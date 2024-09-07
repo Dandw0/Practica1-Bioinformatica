@@ -19,8 +19,10 @@ En Linux el primer `/` ,hace referencia a la raiz, el cual es un caso único.
   **Navegación en Linux:**
  - `cd nombre_carpeta`: Para movilizarte a la carpeta designada.
  - La tecla `Tab` sirve para hacer un autocompletado rápido, solo esta presente si existe el documento o carpeta, por ello debe aplicarse las primeras letras del documento o carpeta requerida.
-  *Forma básica:*
+
+ *Forma básica:*
  ``cd nombre_carpeta``
+
  *Forma con direcciones globales:*
    ``cd ~/documentos``
    ``cd ..``: Navegar atrás.
