@@ -27,7 +27,7 @@ Este es un : *Ejemplo*
 
 #### Añadir imagenes
 
-![Bioinformática - Iconos gratis de educación](https://cdn-icons-png.flaticon.com/512/3829/3829976.png)
+![Bioinformática - Iconos gratis de educación](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Xk3FtqL__EGIiI7E82AekqqDLimo4jzoEFshq4DkMU6dJ-1o6rVe9MIYFMBkBUydt7CQbcvfZMJpblJmbtpS-FOh74aisVI8jd3VyV-NOnw_v4vbiglUMpWeWKYjcPFOSCVLpB7n-Mw/s1600/Qui%25C3%25A9n+utilizo+por+primera+vez+la+palabra+Biolog%25C3%25ADa.jpg)
 
 #### Añadir codigo
 
